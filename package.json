@@ -1,0 +1,5 @@
+{
+  "name": "stone-scissors-paper-game",
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {}
+}
